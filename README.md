@@ -1,2 +1,2 @@
 # boostrap-jquery-plugins-colletion
-boostrap，jquery，等常用插件的分析与使用示例 
+boostrap，jquery，等常用插件的收集与使用示例 
